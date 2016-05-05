@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/libs" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/libs/aws-java-sdk-1.9.34/documentation/javadoc" />
+      <root url="file://$PROJECT_DIR$/libs/commons-logging-1.2/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/libs/aws-java-sdk-1.9.34/samples/AmazonDynamoDB" />
+      <root url="file://$PROJECT_DIR$/libs/aws-java-sdk-1.9.34/samples/AmazonDynamoDBDocumentAPI/quick-start" />
+      <root url="file://$PROJECT_DIR$/libs/aws-java-sdk-1.9.34/samples/AmazonEC2SpotInstances-Advanced" />
+      <root url="file://$PROJECT_DIR$/libs/aws-java-sdk-1.9.34/samples/AmazonEC2SpotInstances-GettingStarted" />
+      <root url="file://$PROJECT_DIR$/libs/aws-java-sdk-1.9.34/samples/AmazonKinesis" />
+      <root url="file://$PROJECT_DIR$/libs/aws-java-sdk-1.9.34/samples/AmazonS3" />
+      <root url="file://$PROJECT_DIR$/libs/aws-java-sdk-1.9.34/samples/AmazonS3TransferProgress" />
+      <root url="file://$PROJECT_DIR$/libs/aws-java-sdk-1.9.34/samples/AmazonSimpleEmailService" />
+      <root url="file://$PROJECT_DIR$/libs/aws-java-sdk-1.9.34/samples/AmazonSimpleQueueService" />
+      <root url="file://$PROJECT_DIR$/libs/aws-java-sdk-1.9.34/samples/AwsCloudFormation" />
+      <root url="file://$PROJECT_DIR$/libs/aws-java-sdk-1.9.34/samples/AwsConsoleApp" />
+      <root url="file://$PROJECT_DIR$/libs/aws-java-sdk-1.9.34/samples/AwsFlowFramework/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/libs" recursive="false" />
+  </library>
+</component>
